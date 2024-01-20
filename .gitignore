@@ -12,5 +12,6 @@ bower_components
 psd
 thumb
 sketch
+.env
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#react
